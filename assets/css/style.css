@@ -1,0 +1,63 @@
+<<<<<<< HEAD
+h1 {
+    line-height: 60px;
+    font-size: 50px;
+    color: white;
+    background: #4aaaa5;
+    display:inline;
+}
+nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-right: 20%;
+    list-style: none;
+    float: right;
+    display: inline;
+    color: #dddddd;
+}
+.nav {
+    margin-right: 100px;
+    margin-top: 30px;
+}
+.custom-mike {
+    background-color: white;
+}
+ul.custom-mike{
+    color: blue;
+}
+
+a {
+    color: blue !important;
+}
+.blankness {
+    background-color: #d6d6d6;
+    color: rgb(165, 161, 161);
+    height: 50px;
+}
+.blankness2 {
+    background-color: #d6d6d6;
+    color: rgb(165, 161, 161);
+    height: 160px;
+}
+
+.backdrop {
+    background-color: #d6d6d6;
+}
+
+h2 {
+    color: white;
+    background: #4aaaa5;
+    font-size: 25px;
+}
+
+#footer {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    height: 40px;
+    background-color: #666666;
+    text-align: center;
+    border-top: #4aaaa5 5px solid;
+}
+=======
+>>>>>>> parent of 2517949... here is my completed portfolio assignment
